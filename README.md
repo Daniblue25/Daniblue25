@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniblue25
 - 👀 I’m interested in medical data analyst, data science, medical image segmentation and classification
-- 🌱 I’m currently learning deep learning, prediction algorithm
+- 🌱 I’m currently learning deep learning, prediction algorithm, images classification
 - 💞️ I’m looking to collaborate on projects medicals images traitment,
 - 📫 How to reach me : kossi.fianko.bio@gmail.com
 
